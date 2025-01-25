@@ -1,4 +1,0 @@
-# bitbucket.org
-Host bitbucket.org
-	PreferredAuthentications publickey
-	IdentityFile ~/.ssh/vpro_rsa
